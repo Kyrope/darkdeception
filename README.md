@@ -1,6 +1,4 @@
-# darkdeception
-Dark Deception - Türkçe Yama (Gayriresmî)
-Kurulum
+# Kurulum
 Yamayı indirdikten sonra, Steam kütüphanenize gelip Dark Deception'a sağ tıklayın.
 Özellikler > Yerel Dosyalar > Göz at
 
